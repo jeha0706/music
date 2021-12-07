@@ -100,4 +100,4 @@ async  def mute song ( ctx ):
         embed = discord . Embed ( title = "[ Music ]" , description = "No music playing" , color = 0x2bff00 )
         await ctx.send(embed=embed)
         
-bot.run('OTA3MjMzNDAzOTYxNzQ1NDk4.YYkM8w.Ts1qzo4Y--afn1_AT5BC7mOmvrs')
+bot . run ( 'your token')
