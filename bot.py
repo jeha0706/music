@@ -14,7 +14,7 @@ from urllib import request
 import random
 import lxml
 
-mytoken = '당신의 봇 토큰'
+mytoken = 'OTQwNDE3ODYzNTk0OTYzMDE1.YgHGYg.Sj8bNuh0yrcQa6BsZlJBh3GTGXs'
 bot = commands.Bot(command_prefix='!')
 client = discord.Client()
 
@@ -615,4 +615,4 @@ async def 멜론차트(ctx):
             
 
       
-bot.run(mytoken)
+bot.run(OTQwNDE3ODYzNTk0OTYzMDE1.YgHGYg.Sj8bNuh0yrcQa6BsZlJBh3GTGXs)
